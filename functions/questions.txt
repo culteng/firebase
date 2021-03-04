@@ -1,0 +1,26 @@
+text	qtype
+This organization is driven by its stated mission.	likert
+This organization is Christ-centered.	likert
+I clearly understand how diversity fits into the school's mission.	likert
+Encouraging diversity is important	likert
+I feel like I belong among my colleagues.	likert
+I have to work hard to fit in with my colleagues.	likert
+I frequently witness discrimination or bullying on campus	likert
+Extra-curricular activities are structured so all students can participate.	likert
+"This could is described as ""Healthy"" "	likert
+"When I have concerns, I’m comfortable speaking about them leadership."	likert
+The school is able to fix things when needed.	likert
+"If discrimination were to occur, the school administrators would effectively address it. "	likert
+Chapel encourages students to engage the Christian faith cross-culturally. 	likert
+Students study faithful Christians from various American cultures and around the world in classes.	likert
+The school regularly has Christian role models from various cultures on campus as employees or guests.	likert
+The school provides off campus opportunities for students to serve under leaders of various ethnic backgrounds	likert
+The school provides resources for me to expand teaching materials.	likert
+The school provides development opportunities for a multicultural learning environment.	likert
+"When new programs are started, follow-up occurs to ensure its success."	likert
+"I regularly attend school-sponsored events (sporting events, student performances, social events, etc.)"	likert
+School rules and policies are culturally unbiased.	likert
+"I feel comfortable discussing my feelings, worries, and frustrations with my supervisor."	likert
+School rules are implemented consistently despite a student’s cultural background.	likert
+School rules are implemented consistently despite a student’s cultural background.	likert
+Please Describe any harassment incident you've experienced while at school or at any school function	open

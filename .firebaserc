@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "culturalengagement-ffd7a"
+    "default": "culturalengagement-ffd7a",
+    "dev": "culturalengagement-ffd7a"
   }
 }
