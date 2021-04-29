@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "culturalengagement-ffd7a",
+  "private_key_id": "8438a6bceca4e51d8b3c3f0054ec2afe0c59cc5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSvQafNL9SXKGz\n2VtD/kdITsqIKHFmAldJRxuK1RRe5aPKZFQMHyOLWiXjzUy+ijTBYML4/j8x/mOA\nSOy2hP/hfEjbMaY0b2lS9vw7Kb12yqp1gPG7Dc7WNs0Xp0Zj+p+6Gn+2WLHJMKdm\n8Lm78MQQidIlf2QIXIiT+UEDUz4xSRbMZY7zl1MJnrMy16vpz9z4sFUj90flphB0\ng4kPnpwQS+oFsxEKm5OKUgwX3v2fHdcX9+AcNdBhvfbWATPVsIRe+G6TJ5mpiyh7\nCrQaL9d+j6OhJ4Qc8Mg4xaRBcJ8+qWpI8w/l2WIDOZS4oPlMMZVaQuF3Aj3+LFrs\n51ziotglAgMBAAECggEAALBMcr294vuELcMdPhIj0n6AwUQnPAxFk8A551C98czH\nUGnWhSRJk0gr99wbuZhYXB9q/lxPrDlRbZcPavib9h/YBHCw7dqar1eOSHU2S3VA\nbFo2Wq73XjzXRmdYtAqay1q7Jcc8FtUOtFKUu3f/HrIMmpcZe8DYU2oiRmwBt9ss\nmsTVrHZlNSbFiZvuGYnY6QsxhNyCKtlu6XeDBmaCnqQ6tshH/PjPnRJJLbt25U+j\nqJ9BKSapQ8d8eYjeEDe8xauuRwL9FCEZ3nNDjTzsYejDfngAYu1t2IHcFAdIgT7e\nFD50XAcsONox00E6n90dEDXw0wQsAlm4rvP5emdvSwKBgQDpCXaWuGwpCWtPID9k\n1m2rCNblFJaLcP187tr61YOAOJi+NgdM16iaLeD/TNmnHwuNck0oAUno7+LqQwOo\nzQh82dNpxxBeYDn+yo5/DGp5a3O+9c3rYxcvGXxCmWW5a01KDlWZ8o9/H3jcLlUS\nFwmgPbnUnxKzjqQSF0FkkM8MjwKBgQDngRBO75S/XHcZgcyfXlqvk69TtH/6yGkc\nTsOo1A/tpBUpaBTU1I8P0IJIVrQaAYYSWXf6XBSlX9Ms0rsVyiPCGgUBlDCfwKKl\ni0VrPWot3ST5T1CbAJhTRX2sspFVJ/uDgeV0k5+msdkDTxAU6vXXPTPwzfqqrs73\nvfOMr5DSCwKBgDFea90qXN+kuzMcJdH7C2i8iqolXm9UFJ+vCn0xVpaHZvSFBa7l\n0TY4mf38DfA1x4DDwkzDWSEcEPqID/Jm3XF1xDAYmAMmZ6Luzpljy/rFJNRDxsgj\nSfoUcBq73K0XalxSBRiEJppL1JLwzdzzPHrSGNhOiuu3QFME0jm34+VJAoGAGLEN\nWj33cYmdMl1Dw+O+bGemFZl05PynKVvFRqaHpGMR1r7BKgoZ0Cf/HVQSFYwADsj4\nIP3dPd5AmdFIHwTWV4eK7SYvIXrcXifCmbONNaMWpHivMjkYBhmtU9Qf6CNBkj8y\niAKOzqq9aLrwDisZWYGvnol5qObIMGhUJ7c6DQ0CgYA1aU5HUiMA8mSmu8EOgVXi\nnculk3S6/Zq1HAGYADj2BwEwNC0YS80EuBep3+z0wR0/yckkcKyEw4we/ilkUIRo\nwwTSRy0HBnMe35ZlsH2hckE6MOKaYuAE/RMe/BpgdgiZ6CjOENW7oIoHcX+blyqh\nc7sJM8OOLe6q94dxWx/pMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-atshx@culturalengagement-ffd7a.iam.gserviceaccount.com",
+  "client_id": "106831737029284844580",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-atshx%40culturalengagement-ffd7a.iam.gserviceaccount.com"
+}

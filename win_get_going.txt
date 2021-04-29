@@ -1,0 +1,4 @@
+conda activate diversity
+cd ..\..\gits\culteng\firebase\functions
+$env:GOOGLE_APPLICATION_CREDENTIALS="./cultural engagement-f2d38a123f26.json"
+firebase use --add
